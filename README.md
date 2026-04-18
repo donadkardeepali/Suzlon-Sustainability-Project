@@ -20,3 +20,5 @@ By correlating energy peaks with building occupancy, the analysis suggested a "S
 Management Readiness:
 
 Developed a series of Executive Dashboards and Canva Infographics that translate these technical data points into "Ready-to-Present" slides for leadership reviews.
+
+![Suzlon Dashboard](image_0d66bd.jpg)
